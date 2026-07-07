@@ -1,4 +1,4 @@
-# Clawd Mochi 🐾
+# Clawd Mochi 图形化界面+表情扩展
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
